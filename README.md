@@ -6,7 +6,7 @@ How many sites do you know that are willing to give you the truth with no lies a
 
 <p>sidenote I do not know how to create additional pages with github but i do know how to in Sublime text</p>
 
-<h1> Help Me Out Here! pg2<h1>
+<h1> Help Me Out Here! pg2</h1>
   
   <p> you know what ill cut you a deal, its 100% FREE no hidden strings no secret fees NOTHING and you help us help you help us find your pacakage isnt that great!?</p>
   
